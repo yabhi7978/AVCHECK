@@ -13,5 +13,8 @@ Print Technology Stack,
 CORS Analysis,
 Collect JS Pages
 
+Direction to use:
+Application can be run using Python. Once application starts running it gives instructions for inputs. Follow the instructions to avoid unnecessary errors.
+
 
 
