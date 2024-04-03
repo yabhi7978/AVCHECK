@@ -18,5 +18,5 @@ Application can be run using Python. Once application starts running it gives in
 
 Application generates console output and save the inputs tool-wise in the subfolder provided by the user.
 
-
+Try running the tool with python2
 
